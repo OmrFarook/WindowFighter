@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(8,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(8,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(14,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(14,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(29,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(30,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(36,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(36,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(41,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(41,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(57,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(58,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(59,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(79,33): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(79,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(94,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(94,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(95,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(95,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(96,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(96,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(97,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(97,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

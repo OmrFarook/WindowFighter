@@ -1,0 +1,34 @@
+﻿  Source.cpp
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(22,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(22,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(28,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(28,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(63,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(64,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(66,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(67,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(69,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(70,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(167,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(194,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(214,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(214,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(214,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(260,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(260,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(270,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(271,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(475,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(480,55): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\TheUltimateGamer\source\repos\GraphicsProject\GraphicsProject\Source.cpp(480,37): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+  GraphicsProject.vcxproj -> C:\Users\TheUltimateGamer\source\repos\GraphicsProject\x64\Debug\GraphicsProject.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
